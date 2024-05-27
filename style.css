@@ -1,0 +1,45 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+
+div{
+ width: 50%;
+ margin-left: 25%;
+}
+
+
+h1 {
+    color: white;
+    font-family: "Libre Baskerville", serif ;
+    text-transform: uppercase;
+}
+
+p{
+    color: white
+}
+
+img{
+    height: 300px;
+    width: 100%;
+    border: 5px solid white;
+}
+
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
